@@ -173,6 +173,6 @@ Reach out via LinkedIn, Instagram, or email: **iannnubb@gmail.com**
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=iannnub&color=blueviolet&style=for-the-badge)
+<img src="https://github.com/iannnub.png" width="150" style="border-radius: 50%;" />
 
 </div>
